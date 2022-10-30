@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Farm Assist</string>
+    <string name="loc">Location Coordinates</string>
+    <string name="crop">Crop</string>
+    <string name="disease">Disease</string>
+    <string name="soil_type">Soil Texture</string>
+</resources>
